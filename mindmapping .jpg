@@ -1,0 +1,39 @@
+          Psychology
+              |
+Business — HRMS QA Assignment — Technology
+              |
+          QA Activities
+🌿 BRANCH 1: Psychology (User Thinking)
+User behavior
+Error guessing mindset
+Edge case thinking
+Negative testing mindset
+Real-world usage scenarios
+
+👉 Idea: How users might break the system
+💼 BRANCH 2: Business (Why system matters)
+Payroll accuracy
+Employee salary impact
+Company trust
+Financial correctness
+Leave & attendance impact on salary
+
+👉 Idea: Business risk if system fails
+
+💻 BRANCH 3: Technology (System side)
+Login module testing
+Payroll module
+Attendance system
+Automation testing (Selenium)
+Bug tracking & reporting
+GitHub Actions CI/CD pipeline
+
+👉 Idea: How system is built and tested
+
+🧪 BRANCH 4: QA Activities (Optional but strong)
+Test Strategy
+Functional testing
+Negative testing
+Exploratory testing
+Bug reporting
+Regression testing
