@@ -1,0 +1,15 @@
+Q1: How did you prioritize testing?
+
+👉 I prioritized payroll functionality first because salary accuracy is business-critical and directly impacts employees.
+
+Q2: What testing approach did you follow?
+
+👉 I used exploratory testing, functional testing, and negative testing to identify real-world edge cases and system failures.
+
+Q3: Why did you include automation?
+
+👉 To ensure repeatability and enable faster regression testing for critical HRMS workflows.
+
+Q4: What was the biggest risk?
+
+👉 Incorrect payroll calculation or attendance miscalculation leading to salary errors.
